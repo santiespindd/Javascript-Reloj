@@ -64,9 +64,7 @@ body{
         font-size: 0.45m;
         
     }
-    .reloj .caja-segundos{
-        display: none;
-    }
+   
     #dosPuntos{
         display: none;
     }
