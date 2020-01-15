@@ -47,4 +47,28 @@ body{
     font-size: 0.45em;
     display: block;
 }
-
+@media only screen and (max-width: 800px) {
+    body{
+        font-size: 12px;
+    }
+    .wrap{
+        width: 100%;
+    }
+    .fecha{
+        font-size: 3em;
+        display: inline-block;
+    }
+    .reloj{font-size: 4em
+    }
+    .reloj .ampm{
+        font-size: 0.45m;
+        
+    }
+    .reloj .caja-segundos{
+        display: none;
+    }
+    #dosPuntos{
+        display: none;
+    }
+  }
+  
