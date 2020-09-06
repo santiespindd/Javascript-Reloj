@@ -1,4 +1,4 @@
 # Javascript-Reloj
 Un reloj en javascript
 
-{www.google.com}
+https://santiespindd.github.io/Javascript-Reloj/
